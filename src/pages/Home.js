@@ -11,7 +11,7 @@ function Home() {
             <h1>Hi. I'm Nazim, Front End Dev in progress. </h1>
           </section>
           <section className="wallpaper-container">
-            <img src="img/wallpaper.jpg" className="wallpaper" />
+            <img src="img/wallpaper.jpg" className="wallpaper" alt="Wallpaper"/>
           </section>
           <article>
             <section>
@@ -50,7 +50,7 @@ function Home() {
 }
 
 export default Home;
-      
-      
 
-    
+
+
+
